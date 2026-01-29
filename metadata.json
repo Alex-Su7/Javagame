@@ -1,0 +1,5 @@
+{
+  "name": "JavaQuest: Gamified Learning",
+  "description": "A gamified web application for learning Java programming from scratch. Features interactive levels, AI-powered code judging, and instant feedback.",
+  "requestFramePermissions": []
+}
